@@ -33,3 +33,5 @@
 
 I’d love to help with the Japanese translation for the parts I can! 
 *(though I’ll probably rely heavily on machine translation—in fact, I might even be using it to write this exact message—and there’s a solid chance I might hit a wall and give up halfway through lol)*
+
+アイコンの権利表示　© SQUARE ENIX
