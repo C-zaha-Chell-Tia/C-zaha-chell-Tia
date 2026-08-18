@@ -1,3 +1,6 @@
+​※お願いなんですが、マジでこの自己紹介READMEの一番下だけは何があっても絶対に見てください（※文体はバリン3gさんの構文リスペクトですが、書いてある内容は冗談抜きでマジの注意書きです）。
+EN:
+​*One quick request: whatever you do, please, seriously check the very bottom of this profile README. (While the writing style is a homage to valine3g's phrasing style, the warning itself is 100% serious, no joke.)
 **2026年7月28日** 
 
 >**JP** 令和8年熊本地震により被災された皆様へこの度の地震により被災された皆様に、心よりお見舞い申し上げます。
@@ -35,3 +38,15 @@ I’d love to help with the Japanese translation for the parts I can!
 *(though I’ll probably rely heavily on machine translation—in fact, I might even be using it to write this exact message—and there’s a solid chance I might hit a wall and give up halfway through lol)*
 
 このアカウントのアイコンの権利表示　© SQUARE ENIX
+
+​ちなみにですが、僕のこのアカウントアイコンにはFF14のファンキット素材（© SQUARE ENIX）を使っています。
+マジで権利問題になりかねないので、僕のアカウントアイコンは協力者一覧とかでも同様に使わないでください。
+​一応どうしても使うとしても、必ずFF14の利用規約（著作物利用許諾条件）を確認してください。ホントに権利関係で化けるのでよろしくお願いします。
+https://support.jp.square-enix.com/rule.php?id=5381&la=0&tag=authc&_ebx=n1pnpetu9j.1772230406.87j2sah​
+
+**EN**
+By the way, my profile icon uses official Fan Kit materials from FINAL FANTASY XIV (© SQUARE ENIX).
+This could easily turn into a serious copyright issue, so please do NOT use my profile icon in things like contributor lists.
+​Even if you really have to use it for some reason, make sure to check the FFXIV Materials Usage License first. It can seriously turn into a major legal issue, so please keep this in mind.
+https://support.na.square-enix.com/main.php?id=5382&la=1&SQEXSC=MufF1O3XYAknUo8L5UKXPK,MAU9Y9MJO
+
