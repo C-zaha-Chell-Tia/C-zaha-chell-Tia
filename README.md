@@ -1,4 +1,5 @@
-​※お願いなんですが、マジでこの自己紹介READMEの一番下だけは何があっても絶対に見てください（※文体はバリン3gさんの構文リスペクトですが、書いてある内容は冗談抜きでマジの注意書きです）。
+​※お願いなんですが、マジでこの自己紹介READMEの一番下だけは何があっても絶対に見てください
+（※文体はバリン3gさんの構文リスペクトですが、書いてある内容は冗談抜きでマジの注意書きです）。
 EN:
 ​*One quick request: whatever you do, please, seriously check the very bottom of this profile README. (While the writing style is a homage to valine3g's phrasing style, the warning itself is 100% serious, no joke.)
 **2026年7月28日** 
