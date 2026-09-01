@@ -50,5 +50,5 @@ https://support.jp.square-enix.com/rule.php?id=5381&la=0&tag=authc&_ebx=n1pnpetu
 By the way, the icon for this account uses assets from the *FF14* fan kit (© SQUARE ENIX).
 Since this could genuinely lead to copyright issues, please do not use my account icon in places like lists of contributors. (In other words, do not include this account image in repository files.)
 If you absolutely must use it, please be sure to check the *FF14* Terms of Use (conditions for the use of copyrighted materials). Copyright matters can get really complicated, so I appreciate your cooperation.
-https://support.na.square-enix.com/main.php?id=5382&la=1&SQEXSC=MufF1O3XYAknUo8L5UKXPK,MAU9Y9MJO
+[FINAL FANTASY XIV Materials Usage License](https://support.na.square-enix.com/rule.php?id=5382&la=1&tag=authc)
 
