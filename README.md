@@ -26,7 +26,7 @@ EN:
 この場所に、僕の音を置かせてもらうザハです。
 
 2026年8月1日
- Yunzhu Transit Extension　(https://github.com/Yunzhu-Dev/Yunzhu-Transit-Extension)　の日本語翻訳担当になりました
+　(https://github.com/Yunzhu-Dev/Yunzhu-Transit-Extension)　 Yunzhu Transit Extension　の日本語翻訳担当になりました
 
 
 
