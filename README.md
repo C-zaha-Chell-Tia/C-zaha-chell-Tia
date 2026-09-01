@@ -44,7 +44,7 @@ I’d love to help with the Japanese translation for the parts I can!
 マジで権利問題になりかねないので、僕のアカウントアイコンは協力者一覧とかでも同様に使わないでください。　※すなわち　このアカウント画像をリポジトリファイルに入れることはダメということ
 
 ​一応どうしても使うとしても、必ずFF14の利用規約（著作物利用許諾条件）を確認してください。ホントに権利関係で化けるのでよろしくお願いします。
-https://support.jp.square-enix.com/rule.php?id=5381&la=0&tag=authc&_ebx=n1pnpetu9j.1772230406.87j2sah​
+[著作物利用許諾案件](https://support.jp.square-enix.com/rule.php?id=5381&la=0&tag=authc)
 
 **EN**
 By the way, the icon for this account uses assets from the *FF14* fan kit (© SQUARE ENIX).
